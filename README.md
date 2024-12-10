@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrahmanMurad
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Backend Node.js projects
+- 🌱 I’m currently learning Node.js & NestJS
+- 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me: Email me at [abdelrahman.murad03@gmail.com].
 
 <!---
