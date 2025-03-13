@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m a Node.js & NestJS Developer
 - 💞️ I’m looking to collaborate on Backend projects
-- 📫 How to reach me: Email me at [abdelrahman.murad03@gmail.com].
+- 📫 How to reach me: Email me at [abd.murad.dev@gmail.com].
 
 <!---
 AbdelrahmanMurad/AbdelrahmanMurad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
