@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @AbdelrahmanMurad
-- 👀 I’m interested in Backend Development
-- 🌱 I’m a Node.js & NestJS Developer
-- 💞️ I’m looking to collaborate on Backend projects
-- 📫 How to reach me: Email me at [abd.murad.dev@gmail.com].
+# 👋 Hi there, I'm Abdelrahaman Murad
 
-<!---
-AbdelrahmanMurad/AbdelrahmanMurad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Aspiring Quality Assurance Engineer** with a solid background in **Backend Development**.  
+🧪 Skilled in **Manual**, **API**, **Database**, **Automation**, and **Mobile Testing**.  
+💻 Proficient in **JavaScript**, **TypeScript**, and **Java**, with experience using **Node.js** and **NestJS**.
+
+---
+
+🎓 **Education:**  
+Graduated with a degree in **Software Development** from the **Islamic University of Gaza**, where I also explored:
+- 🛠️ DevOps fundamentals  
+- ⚛️ Frontend development using **ReactJS**
+
+---
+
+🧠 **What I'm passionate about:**
+- Writing clean, maintainable code  
+- Delivering high-quality software  
+- Tackling real-world problems through **QA** and **Backend** excellence  
+- Constant learning and taking on new challenges  
+
+---
+
+📫 **Let's connect!**  
+Feel free to check out my projects or reach out:
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahmanmurad)
+- 📬 Email: awmurad2001@gmail.com
+
+---
+
+⭐️ _Thanks for visiting my GitHub profile!_  
