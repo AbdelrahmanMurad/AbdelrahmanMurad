@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm AbdelrahmanMurad</h1>
 <h3 align="center">Quality Assurance Engineer || Backend Developer - NestJS</h3>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-92daff1d1a4543e74c02d0afa650a095-lq" align="center"/>
+<p align="center">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-92daff1d1a4543e74c02d0afa650a095-lq" alt="Profile Image" width="300px" />
+</p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
