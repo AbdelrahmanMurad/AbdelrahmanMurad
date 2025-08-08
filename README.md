@@ -51,10 +51,10 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ## 📊 GitHub Stats
-![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanFarakhnah&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawanFarakhnah&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah)]
+![Abdelrahman GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMurad&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMurad&layout=compact&theme=radical)
 
 ## 📈 GitHub Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RawanFarakhnah&theme=redical" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanMurad&theme=redical" alt="GitHub Activity Graph">
 
 ### Hobbies
 
