@@ -50,6 +50,12 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+## 📊 GitHub Stats
+![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanFarakhnah&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawanFarakhnah&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah)]
+
+## 📈 GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RawanFarakhnah&theme=redical" alt="GitHub Activity Graph">
+
 ### Hobbies
 
 - 📚 Reading
