@@ -17,6 +17,8 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wKn_cIxymHG5ydMnnm2d7L7xRAd86qNd/view?usp=drive_link)
 
+<br>
+
 ## 🤝 Connect with me
 <p align="left">
 <a href="https://dev.to/abdelrahman_murad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdelrahman_murad" height="30" width="40" /></a>
@@ -25,6 +27,8 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 <a href="https://medium.com/@abdelrahman.murad03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdelrahman.murad03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdelrahmanmurad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmanmurad" height="30" width="40" /></a>
 </p>
+
+<br>
 
 ## 🧪💻Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,11 +51,17 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+<br>
+
 ## 📊 GitHub Stats
 ![Abdelrahman GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMurad&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMurad&layout=compact&theme=radical)
 
+<br>
+
 ## 📈 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanMurad&theme=redical" alt="GitHub Activity Graph">
+
+<br>
 
 ## Hobbies
 - 📚 Reading
