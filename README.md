@@ -54,7 +54,7 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 <br>
 
 ## 📊 Top Languages Used
-<img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMurad&show_icons=true&theme=radical" style="width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMurad&layout=compact&theme=radical" alt="Top Languages" width="100%">
 
 <br>
 
