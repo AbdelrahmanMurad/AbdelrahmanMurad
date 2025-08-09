@@ -53,8 +53,8 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 
 <br>
 
-## 📊 GitHub Stats
-![Abdelrahman GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMurad&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMurad&layout=compact&theme=radical)
+## 📊 Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMurad&layout=compact&theme=radical)
 
 <br>
 
