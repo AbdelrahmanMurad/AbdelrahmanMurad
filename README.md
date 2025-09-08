@@ -48,6 +48,7 @@ Aspiring Quality Assurance Engineer with a solid background in Backend Developme
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
 
 <br>
 
