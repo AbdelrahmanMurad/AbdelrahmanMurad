@@ -9,22 +9,15 @@
 Quality Assurance Engineer with a solid background in Backend Development, experienced in Automation, Manual, API, Database and Mobile Testing. Skilled in JavaScript, TypeScript, and Java, and familiar with frameworks like Node.js and NestJS. Passionate about giving the best quality version of the system by digging deep into it. Motivated to cooperate with teams, learn and help each other, and take ownership of delivering work that prevents issues from ever reaching the user.
 </p>
 
-- 🌱 I’m currently learning **Quality Assurance with Axsos Academy**
-
 - 📝 I regularly write articles on my [LinkedIn](www.linkedin.com/in/abdelrahmanmurad)
 
 - 📫 How to reach me **awmurad2001@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wKn_cIxymHG5ydMnnm2d7L7xRAd86qNd/view?usp=drive_link)
 
 <br>
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmanmurad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/abdelrahmanmurad)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abdelrahmanmurad)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/abdelrahman_murad)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdelrahman.murad03)
 
 <br>
 
