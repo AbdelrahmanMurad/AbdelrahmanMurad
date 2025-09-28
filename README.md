@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-Aspiring Quality Assurance Engineer with a solid background in Backend Development. Skilled in Manual, API, Database, Automation, and Mobile Testing. Experienced in JavaScript, TypeScript, and Java, and familiar with frameworks like Node.js and NestJS. Currently sharpening my QA skills through hands on training with AXSOS Academy.
+Quality Assurance Engineer with a solid background in Backend Development, experienced in Automation, Manual, API, Database and Mobile Testing. Skilled in JavaScript, TypeScript, and Java, and familiar with frameworks like Node.js and NestJS. Passionate about giving the best quality version of the system by digging deep into it. Motivated to cooperate with teams, learn and help each other, and take ownership of delivering work that prevents issues from ever reaching the user.
 </p>
 
 - 🌱 I’m currently learning **Quality Assurance with Axsos Academy**
