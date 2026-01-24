@@ -55,11 +55,6 @@ Quality Assurance Engineer with strong experience in testing front-end and back-
 
 <br>
 
-## 📈 GitHub Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanMurad&theme=redical" alt="GitHub Activity Graph">
-
-<br>
-
 ## Hobbies
 - 📚 Reading
 - 🎧 Listening to Poscasts
