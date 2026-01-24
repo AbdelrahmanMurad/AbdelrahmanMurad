@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-Quality Assurance Engineer with strong experience in testing front-end and back-end systems, as well as web and mobile applications. Skilled in using advanced tools and techniques for automated and manual testing to ensure the reliability of APIs and databases. Possess a solid technical background in JS, TS, Java, and the NestJS framework, providing a deep understanding of system functionality and root-cause analysis. Passionate about enhancing product quality through analytical thinking, cross-team collaboration, and preventing issues from reaching the user.
+Quality Assurance Engineer with strong experience in testing front-end and back-end systems, as well as web and mobile applications. Skilled in manual and automated testing, leveraging advanced tools and AI to accelerate test case design and automation development, improving efficiency and coverage while ensuring the reliability of APIs and databases. Possess a solid technical background in JS, TS, Java, and the NestJS framework, enabling deep system understanding and effective root-cause analysis. Passionate about enhancing product quality through analytical thinking, cross-team collaboration, and preventing issues from reaching users.
 </p>
 
 - 📝 I regularly write articles on my [LinkedIn](www.linkedin.com/in/abdelrahmanmurad)
